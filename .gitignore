@@ -1,0 +1,74 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Git
+# =========================
+.git/
+
+# =========================
+# Logs
+# =========================
+logs/
+
+# =========================
+# Runtime / generated data
+# =========================
+data/
+data extra/
+outputs/
+reports/inspections/
+
+# =========================
+# Large datasets
+# =========================
+*.zip
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+
+# Development notebooks / archives
+*.zip
+*.ipynb
+12-08-2026 working code.txt
+daily progress.txt
+curl
+requirements-full.txt
+
+# ML training artifacts
+models/**/Box*.png
+models/**/Mask*.png
+models/**/confusion_matrix*.png
+models/**/labels.jpg
+models/**/results*.png
+models/**/results*.csv
+models/**/train_batch*.jpg
+models/**/val_batch*.jpg
+models/**/args.yaml

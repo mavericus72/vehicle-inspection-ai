@@ -1,0 +1,12 @@
+fastapi==0.121.2
+uvicorn[standard]==0.38.0
+python-multipart==0.0.20
+
+numpy==2.3.5
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+reportlab==5.0.1
+
+torch==2.14.1
+torchvision==0.29.1
+ultralytics==8.4.171
