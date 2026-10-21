@@ -568,5 +568,3 @@ Existing Inference Pipeline
  ## Deployment Note
 
  **Free deployment was limited by platform constraints: Docker — storage limitations; Render — insufficient RAM for the ML workload; Hugging Face — required paid service for the required deployment setup; Oracle Cloud VM — required payment/credit-card verification.**
-
- This version deliberately makes the project sound like an **AI engineering system**, rather than just a collection of YOLO models. It also keeps the weaker damage metrics transparent instead of hiding them, which I think is important if the repository will be reviewed by technical people.
